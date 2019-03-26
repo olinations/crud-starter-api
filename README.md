@@ -66,7 +66,7 @@ CREATE TABLE testtable1 (
 ```
 
 ## CRUD Starter Frontend
-View the [repository for the frontend](https://github.com/olinations/crud-starter-frontend) that goes along with this API. It uses React and Bootstrap to display a responsive data table. It serves as the perfect startup for the frontend.
+View the [repository for the frontend](https://github.com/olinations/crud-starter-frontend) that goes along with this API. It uses React and Bootstrap to display a responsive data table. It serves as the perfect starter for the frontend, however, you can use any frontend to access this API.
 
 ## Further Information
 This is just a starter kit for getting a basic API up and running. Feel free to change any and everything about it. A production ready app with more API requests and routes should undoubtedly have much of the code abstracted to different files and folders. This repo simply eliminates the need for a dev to do a bunch of research on how to get an API setup, secure, and running in a professional manner.
