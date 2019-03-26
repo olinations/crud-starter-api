@@ -10,7 +10,7 @@ const bodyParser = require('body-parser') // turns response into usable format
 const cors = require('cors')  // allows/disallows cross-site communication
 const morgan = require('morgan') // logs requests
 
-// db Connection w/ Herok
+// db Connection w/ Heroku
 // const db = require('knex')({
 //   client: 'pg',
 //   connection: {
